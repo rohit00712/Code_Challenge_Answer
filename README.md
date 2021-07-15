@@ -22,7 +22,9 @@ Design Database with mongoDB and Assign the following Candidate and their Score.
 To run the source Code :
 
 step 1: Download source Code from the repository.
+
 step 2: $ npm install (To install all the neccessary packages)
+
 step 3: $ node app.js  OR  $ nodemon app.js
 
 It will started the server and browse on http://localhost:3000/
